@@ -1,0 +1,181 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "firstName": "1",
+      "lastName": "1",
+      "dob": "1",
+      "address": "1",
+      "email": "1",
+      "phone": "1"
+    },
+    {
+      "id": 3,
+      "firstName": "1",
+      "lastName": "1",
+      "dob": "1",
+      "address": "1",
+      "email": "1",
+      "phone": "1"
+    },
+    {
+      "id": 2,
+      "firstName": "Sidorov",
+      "lastName": "Ivanov",
+      "dob": "2000-01-26",
+      "address": "Minsk",
+      "email": "ivanov@ivan.com",
+      "phone": "+37533435534"
+    },
+    {
+      "id": 4,
+      "firstName": "1",
+      "lastName": "1",
+      "dob": "1",
+      "address": "1",
+      "email": "1",
+      "phone": "1"
+    },
+    {
+      "id": 5,
+      "firstName": "1",
+      "lastName": "1",
+      "dob": "1",
+      "address": "1",
+      "email": "1",
+      "phone": "1"
+    },
+    {
+      "id": 6,
+      "firstName": "1",
+      "lastName": "1",
+      "dob": "1",
+      "address": "1",
+      "email": "1",
+      "phone": "1"
+    },
+    {
+      "id": 7,
+      "firstName": "1",
+      "lastName": "1",
+      "dob": "1",
+      "address": "1",
+      "email": "11",
+      "phone": "1"
+    },
+    {
+      "id": 8,
+      "firstName": "1",
+      "lastName": "1",
+      "dob": "1",
+      "address": "1",
+      "email": "1",
+      "phone": "1"
+    },
+    {
+      "id": 9,
+      "firstName": "1",
+      "lastName": "1",
+      "dob": "1",
+      "address": "1",
+      "email": "1",
+      "phone": "1"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Ivanov",
+      "dob": "2000-01-26",
+      "address": "Minsk",
+      "email": "ivanov@ivan.com",
+      "phone": "+37533435534",
+      "id": 10
+    }
+  ],
+  "cars": [
+    {
+      "id": 3
+    },
+    {
+      "clientId": "5",
+      "make": "1",
+      "model": "1",
+      "year": "1",
+      "vin": "1",
+      "id": 4
+    },
+    {
+      "clientId": "8",
+      "make": "1",
+      "model": "1",
+      "year": "1",
+      "vin": "1",
+      "id": 6
+    },
+    {
+      "clientId": "3",
+      "make": "1",
+      "model": "1",
+      "year": "1",
+      "vin": "1",
+      "id": 7
+    },
+    {
+      "clientId": "9",
+      "make": "1",
+      "model": "1",
+      "year": "1",
+      "vin": "11",
+      "id": 8
+    },
+    {
+      "clientId": "9",
+      "make": "1",
+      "model": "w",
+      "year": "увцуац",
+      "vin": "AXa",
+      "id": 9
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "carId": 7,
+      "clientId": "3",
+      "date": "12/28/12",
+      "amount": "12",
+      "status": "in-progress",
+      "editMode": false
+    },
+    {
+      "id": 2,
+      "carId": 8,
+      "clientId": "9",
+      "date": "12/28/12",
+      "amount": "12",
+      "status": "in-progress",
+      "editMode": false
+    },
+    {
+      "id": 3,
+      "carId": 8,
+      "clientId": "9",
+      "date": "12/28/12",
+      "amount": "1",
+      "status": "completed",
+      "editMode": false
+    },
+    {
+      "id": 4,
+      "carId": 8,
+      "clientId": "9",
+      "editMode": false
+    },
+    {
+      "id": 5,
+      "carId": 8,
+      "clientId": "9",
+      "amount": "0",
+      "editMode": false
+    }
+  ]
+}

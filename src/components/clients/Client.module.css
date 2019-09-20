@@ -1,0 +1,29 @@
+.hhh {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 500px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.key, .value {
+    border: 1px solid red;
+   /*display: block;*/
+    width: 150px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+.key{
+    border: 0;
+    text-align: right;
+    color: black;
+}
+.column {
+    display: flex;
+
+}
